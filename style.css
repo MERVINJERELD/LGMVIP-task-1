@@ -1,0 +1,149 @@
+html
+{
+  scroll-behavior: smooth ; 
+  cursor:crosshair ;
+}
+  .custom
+  {
+    cursor:crosshair;
+    }
+  .header
+  {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom:200px ;
+    width : 100%;
+    height : 50px;
+    background-color: red;
+    color : white;
+    border : 2px solid white;
+  }
+  .img{
+      margin-left: 0%;
+  }
+  li
+  {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    float:right;
+    display:block;
+    padding:90px 1px 14px 16px;
+
+  }
+  .name
+  {
+    font-family: 'Mohave', sans-serif;
+    float:left;
+    display:block;
+    margin-top:5%;
+    padding:15px 15px 15px 15px;
+    font-size:72px;
+    margin-left: 5%;
+    border: 2px solid white;
+    background-color: white;
+    color:black;
+    border-radius: 80px;
+  }
+  .a
+  {
+    color:white;
+    text-decoration: none;
+  }
+  li a:hover
+  {
+    padding: 10px 10px;
+    color:black;
+    border: 2px solid white;
+    border-radius: 50px;
+    background-color: white;
+    text-decoration: none;
+  }
+  li a:visited,a:active
+  {
+    color:black;
+  }
+  .bdy
+  {
+    border: 2px solid ;
+    height: 225px;
+    margin-top : 12%;
+  }
+  .hi
+  {
+    color:white;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size:30px;
+    margin-left:14%;
+  }
+  .pic
+  {
+    float:right;
+    width:210px;
+    height:280px;
+    margin-right:17%;
+  }
+  .footer
+  {
+      border : 2px solid wite;
+      height : 75px;
+      margin-top:8%;
+  }
+  .logo
+  {
+    float:right;
+    width:75px;
+    height:75px
+  }
+  .quali
+  {
+    border : 2px solid #1DB954;
+    height : 800px;
+    width:100%;
+    margin-top:5%;
+    background-color: #1DB954;
+  }
+  .qt
+  {
+    font-family: 'Mohave', sans-serif;
+    float:left;
+    display:block;
+    margin-top:3%;
+    padding:15px 15px 15px 15px;
+    font-size:30px;
+    margin-left: 12%;
+    border: 2px solid black;
+    background-color: black;
+    color:white;
+    border-radius: 80px;
+  }
+  .view
+  {
+    font-family: 'Mohave', sans-serif;
+    float:left;
+    display:block;
+    margin-top:0%;
+    padding:10px 10px 10px 10px;
+    font-size:15px;
+    margin-left: 30%;
+    border: 2px solid #1DB954;
+    background-color: #1DB954;
+    background-color: black;
+    color:white;
+    border-radius: 80px;
+  }
+  .white
+  {
+      color:black;
+      font-family: 'Mohave', sans-serif;
+  }
+  .skills
+  {
+    border : 2px solid #1DB954;
+    height : 700px;
+    width:100%;
+    margin-top:0%;
+    background-color: #1DB954;
+  }
+  .csk{
+    width : 700px;
+
+  }
